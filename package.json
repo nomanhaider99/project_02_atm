@@ -1,0 +1,19 @@
+{
+  "name": "project_02_atm_nomanhaider99_atm",
+  "version": "1.3.1",
+  "description": "a fully functional cli atm machine.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "index.js",
+  "author": "Noman Haider",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
